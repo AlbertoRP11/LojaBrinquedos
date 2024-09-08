@@ -8,6 +8,8 @@
 
 - Ruan Guedes – RM 551096
 
+### Link do Deploy
+https://lojabrinquedos-production-afde.up.railway.app
 
 ### Link do Fork com o Deploy
 
